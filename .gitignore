@@ -1,0 +1,11 @@
+# Node packages
+node_modules/
+
+# IDE specific
+.idea/*
+
+# OSX folder meta data
+.DS_Store
+
+# In case of any npm install failures, keep this file local.
+npm-debug.log
